@@ -5,7 +5,6 @@ function App() {
   return (
     <div className="App">
       <h1>Dynamic Form Creation App</h1>
-      
       <DynamicForm />
     </div>
   );
